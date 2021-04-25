@@ -1,6 +1,6 @@
 [返回README](README.md)
 
-![jlu](images/jlu.png)
+![截图](images/screencut.png)
 
 ![菜鸟教程](http://static.runoob.com/images/runoob-logo.png)
 ```C++
