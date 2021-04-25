@@ -1,4 +1,4 @@
-![jlu](./jlu.jpg)
+![jlu](./jlu.png)
 
 ![菜鸟教程](http://static.runoob.com/images/runoob-logo.png)
 ```C++
